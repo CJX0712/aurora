@@ -1,0 +1,33 @@
+# Models & weights (never commit - several GB)
+models/
+*.gguf
+*.bin
+*.safetensors
+
+# Runtime state
+.aurora/
+*.db
+*.sqlite
+*.sqlite3
+knowledge/
+
+# Build artifacts
+.buildtmp/
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Env & secrets
+.env
+.env.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
