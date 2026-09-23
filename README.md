@@ -1,5 +1,12 @@
 # Aurora
 
+<p align="center">
+  <a href="https://github.com/CJX0712/aurora/actions/workflows/ci.yml"><img src="https://github.com/CJX0712/aurora/actions/workflows/ci.yml/badge.svg" alt="ci"></a>
+  <a href="https://github.com/CJX0712/aurora/releases"><img src="https://img.shields.io/github/v/release/CJX0712/aurora?sort=semver" alt="release"></a>
+  <a href="https://github.com/CJX0712/aurora/blob/main/LICENSE"><img src="https://img.shields.io/github/license/CJX0712/aurora" alt="license"></a>
+  <img src="https://img.shields.io/badge/author-%E6%99%A8%E6%98%9F-1f6feb" alt="author">
+</p>
+
 **本地自主智能体系统** — 纯本机 CPU 运行，内置 RAG 检索与工具调用循环，零云端密钥依赖。
 
 作者：**晨星**
